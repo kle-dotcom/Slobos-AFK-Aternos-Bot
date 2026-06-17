@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hedgehog.aternos.host:15932",
+    "ip": "b0test.aternos.me",
     "port": 15932,
     "version": "",
     "try-creative": false
